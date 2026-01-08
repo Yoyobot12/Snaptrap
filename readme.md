@@ -4,7 +4,7 @@
 
 ## ✨ Fonctionnalités principales
 
-- 🔊 **Détection des sons** : Reconnaît les applaudissements à partir de microphones locaux, flux RTSP 📹 ou sources VBAN 🌐.
+- 🔊 **Détection des sons** : Reconnaît les claquements de doigts à partir de microphones locaux, flux RTSP 📹 ou sources VBAN 🌐.
 - 🔗 **Webhook configurable** : Envoie une notification aux URL définies lorsqu'un événement est détecté.
 - 🖥️ **Interface intuitive** : Configuration facile des paramètres audio et des webhooks.
 - ⚡ **Support multi-sources** : Gère plusieurs flux simultanément avec des réglages indépendants.
